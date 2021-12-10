@@ -7,7 +7,10 @@ The game is currently in its beta state, a short video demonstrates the current 
 
 
 
-https://user-images.githubusercontent.com/62857780/145616424-cc92dbfb-968b-49b2-a7e6-b1c79bab4b3a.MP4
+https://user-images.githubusercontent.com/62857780/145620329-51f60267-3df7-4871-985c-d24654777136.mp4
+
+
+
 
 
 
