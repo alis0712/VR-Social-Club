@@ -6,5 +6,8 @@ VR Social Club is  a multiplayer virtual reality game. The game is like Rec Room
 The game is currently in its beta state, a short video demonstrates the current progress: 
 
 
-https://user-images.githubusercontent.com/62857780/145614592-dbea6d47-86a1-4be1-a375-44c58e97691d.MP4
+
+https://user-images.githubusercontent.com/62857780/145616424-cc92dbfb-968b-49b2-a7e6-b1c79bab4b3a.MP4
+
+
 
